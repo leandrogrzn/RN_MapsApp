@@ -3,6 +3,23 @@
 <plist version="1.0">
 <dict>
 	<key>CFBundleDevelopmentRegion</key>
+
+	<key>NSLocationAlwaysAndWhenInUseUsageDescription</key>
+  <string>Necesito tu ubicacion para mostrar el mapa</string>
+  <key>NSLocationTemporaryUsageDescriptionDictionary</key>
+  <dict>
+    <key>YOUR-PURPOSE-KEY</key>
+    <string>Necesito tu ubicacion para mostrar el mapa</string>
+  </dict>
+  <key>NSLocationWhenInUseUsageDescription</key>
+	<string>Necesito tu ubicacion para mostrar el mapa</string>
+  
+
+
+
+
+
+
 	<string>en</string>
 	<key>CFBundleDisplayName</key>
 	<string>mapsapp</string>
