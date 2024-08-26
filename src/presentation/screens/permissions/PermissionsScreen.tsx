@@ -1,6 +1,6 @@
 import { Pressable, Text, View } from "react-native";
 import { globalStyles } from "../../../config/theme/styles";
-import { usePermissionStore } from "../../store/permissions/usePermissionsStore";
+import { usePermissionStore } from "../../store/permissions/usePermissionStore";
 
 export const PermissionsScreen = () => {
 

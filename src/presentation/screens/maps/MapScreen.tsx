@@ -3,7 +3,7 @@ import { Text, View } from "react-native";
 export const MapScreen = () => {
   return (
     <View>
-      <Text>MapScreen</Text>
+      <Text style={{color: 'black'}}>MapScreen</Text>
     </View>
   )
 }
